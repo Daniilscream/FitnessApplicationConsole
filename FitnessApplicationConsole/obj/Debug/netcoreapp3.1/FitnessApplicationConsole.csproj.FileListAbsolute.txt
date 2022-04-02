@@ -1,0 +1,16 @@
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\bin\Debug\netcoreapp3.1\FitnessApplicationConsole.exe
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\bin\Debug\netcoreapp3.1\FitnessApplicationConsole.deps.json
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\bin\Debug\netcoreapp3.1\FitnessApplicationConsole.runtimeconfig.json
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\bin\Debug\netcoreapp3.1\FitnessApplicationConsole.runtimeconfig.dev.json
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\bin\Debug\netcoreapp3.1\FitnessApplicationConsole.dll
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\bin\Debug\netcoreapp3.1\FitnessApplicationConsole.pdb
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\bin\Debug\netcoreapp3.1\BL.Fitness.dll
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\bin\Debug\netcoreapp3.1\BL.Fitness.pdb
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\obj\Debug\netcoreapp3.1\FitnessApplicationConsole.csprojAssemblyReference.cache
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\obj\Debug\netcoreapp3.1\FitnessApplicationConsole.AssemblyInfoInputs.cache
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\obj\Debug\netcoreapp3.1\FitnessApplicationConsole.AssemblyInfo.cs
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\obj\Debug\netcoreapp3.1\FitnessApplicationConsole.csproj.CoreCompileInputs.cache
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\obj\Debug\netcoreapp3.1\FitnessApplicationConsole.csproj.CopyComplete
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\obj\Debug\netcoreapp3.1\FitnessApplicationConsole.dll
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\obj\Debug\netcoreapp3.1\FitnessApplicationConsole.pdb
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\FitnessApplicationConsole\obj\Debug\netcoreapp3.1\FitnessApplicationConsole.genruntimeconfig.cache
