@@ -1,0 +1,9 @@
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\BL.Fitness\bin\Debug\netstandard2.0\BL.Fitness.deps.json
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\BL.Fitness\bin\Debug\netstandard2.0\BL.Fitness.dll
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\BL.Fitness\bin\Debug\netstandard2.0\BL.Fitness.pdb
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\BL.Fitness\obj\Debug\netstandard2.0\BL.Fitness.csprojAssemblyReference.cache
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\BL.Fitness\obj\Debug\netstandard2.0\BL.Fitness.AssemblyInfoInputs.cache
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\BL.Fitness\obj\Debug\netstandard2.0\BL.Fitness.AssemblyInfo.cs
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\BL.Fitness\obj\Debug\netstandard2.0\BL.Fitness.csproj.CoreCompileInputs.cache
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\BL.Fitness\obj\Debug\netstandard2.0\BL.Fitness.dll
+C:\Users\Daniil.Vishnivetsky\source\repos\FitnessApplicationConsole\BL.Fitness\obj\Debug\netstandard2.0\BL.Fitness.pdb
