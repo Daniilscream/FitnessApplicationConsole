@@ -20,7 +20,7 @@ namespace BL.Fitness
 
         public override string ToString()
         {
-            return Name;
+            return $"Gender: {Name}";
         }
     }
 }
