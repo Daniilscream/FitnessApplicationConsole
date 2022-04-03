@@ -5,12 +5,15 @@ namespace BL.Fitness
     [Serializable]
     public class User
     {
+        private string v;
+        private object name;
         #region Properties
         public string Name { get; }
-        public Gender Gender { get; }
-        public DateTime Birthday { get; }
+        public Gender Gender { get; set; }
+        public DateTime Birthday { get; set; }
         public double Weight { get; set; }
         public double Height { get; set; }
+        public int Age { get { return DateTime.Now.Year - Birthday.Year; } }  //I know!
         #endregion
 
         /// <summary>
@@ -42,9 +45,16 @@ namespace BL.Fitness
             Height = height;
         }
 
+        public User(string name)
+        {
+            if (string.IsNullOrWhiteSpace(name))
+                throw new ArgumentNullException("Username doesn't be empty", nameof(name));
+            Name = name;
+        }
+
         public override string ToString()
         {
-            return $"Name: {Name} \n Gender: {Gender} \n Birthday: {Birthday} \n Weight: {Weight} \n Height: {Height}";
+            return $"Name: {Name} \n Age: {Age} \n Gender: {Gender} \n Birthday: {Birthday} \n Weight: {Weight} \n Height: {Height}";
         }
     }
 }
