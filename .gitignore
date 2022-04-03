@@ -1,55 +1,55 @@
-# Prerequisites
-*.d
+# User-specific files
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+*.suo
 
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
-
+*.user
+*.sln.docstates
+*.csproj.DotSettings
 
 .vs/
+
+# JetBrains Rider
+.idea/
+
+# Build results
+
+debug/
+release/
+bin/
+obj/
+*.Bin/
+
+*.vspscc
+
+*.vssscc
+*.cache
+*.log
+*.publishproj
+
+
+*.dll
+
+*.pdb
+
+.vs/config/applicationhost.config
+
+*.tmp
+vwd.webinfo
+
+#node modules
+node_modules
+
+# NuGet
+!packages.config
+!repositories.config
+/packages/*
+
+
+# Customizations
+BuildLog.txt
+backupWeb.config
+*.zip
+*.orig
+
+# transactions store
+*.bin
